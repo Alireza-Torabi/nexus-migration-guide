@@ -1,5 +1,5 @@
 
-# Educational Booklet: Migrating Nexus Repository from OrientDB to H2 in Docker Compose
+# Migrating Nexus Repository from OrientDB to H2 in Docker Compose
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
