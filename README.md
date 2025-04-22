@@ -189,6 +189,3 @@ Once you confirm that Nexus 3.71 is running well, it’s a good idea to:
 Congratulations! You’ve successfully migrated your Nexus Repository from OrientDB to H2 using Docker Compose. With this process, you can now safely upgrade to Nexus 3.71.0 or later. Regular backups, configuration checks, and post-migration validation will ensure your Nexus system remains healthy as you continue using it for your repository management needs.
 
 ---
-
-### Keep Learning
-Feel free to explore more about Nexus, its features, and how to manage your repository effectively through Sonatype’s [official documentation](https://help.sonatype.com/).
